@@ -1,0 +1,12 @@
+
+$colorFondo: #ccc;
+$colorLetra1: rgb(97, 95, 95);
+
+body{
+    background: $colorFondo;
+}
+
+h1{
+    color: $colorLetra1;
+    padding-left: 20px;
+}

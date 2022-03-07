@@ -1,0 +1,31 @@
+body {
+  background: #ccc;
+}
+
+h1 {
+  color: #615f5f;
+  padding-left: 20px;
+}
+
+.container {
+  text-align: center;
+}
+
+#div1 {
+  float: left;
+  background: rgba(230, 228, 228, 0.466);
+  padding: 10px;
+}
+
+#div2 {
+  float: left;
+  margin-left: 30px;
+  background: rgba(230, 228, 228, 0.466);
+  padding: 10px;
+}
+
+#encuesta {
+  margin-top: 130px;
+}
+
+/*# sourceMappingURL=style.css.map */

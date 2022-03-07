@@ -1,0 +1,24 @@
+$ladoIzquierdo: rgba(230, 228, 228, 0.466);
+$PaddingDiv:10px;
+
+.container{
+    text-align:center
+}
+
+#div1{
+   float:left;
+    background: $ladoIzquierdo;
+    padding: $PaddingDiv;
+}
+
+#div2{
+    float: left;
+    margin-left: 30px;
+    background: $ladoIzquierdo;
+    padding: $PaddingDiv;
+}
+
+#encuesta{
+    margin-top: 130px;
+}
+
